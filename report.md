@@ -1,6 +1,5 @@
-# Report from 
-## Group 8
-## Loris Junod, Kyrylo Kublytskyi
+# Report from Group 8
+**Loris Junod, Kyrylo Kublytskyi**
 
 # Abstract
 # Introduction
