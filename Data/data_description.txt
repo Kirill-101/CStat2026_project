@@ -75,7 +75,7 @@ LotConfig: Lot configuration
 LandSlope: Slope of property
 		
        Gtl	Gentle slope
-       Mod	Moderate Slope	
+       Mod	Moderate Slope
        Sev	Severe Slope
 	
 Neighborhood: Physical locations within Ames city limits
